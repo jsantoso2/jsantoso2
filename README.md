@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, I'm Jonathan!
 
-• MS Data Science Student at Columbia University
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jsantoso2&count_private=true&show_icons=true&theme=highcontrast&hide=issues)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantoso2&layout=compact)
 
@@ -28,5 +26,4 @@ Here are some ideas to get you started:
 
 ## Contacts
 • <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/linkedin.png" /> [__Linkedin__](https://www.linkedin.com/in/jonathan-santoso-100/) <br/>
-• 📫 [__Email__](mailto:jis2152@columbia.edu) <br/>
 • <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/github.png" /> [__Github__](https://github.com/jsantoso2)

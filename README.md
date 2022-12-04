@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/python.png"></code>
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/sql.png"></code>
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/R.png"></code>
-<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/java.png"></code>
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/tableau.png"></code>
 
 ## Contacts

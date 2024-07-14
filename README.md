@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantoso2&layout=compact)
 
 ## Languages and Tools  
-<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/jupyter.png"></code>
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/python.png"></code>
 <code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/sql.png"></code>
-<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/R.png"></code>
-<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/tableau.png"></code>
+<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/Google Cloud Icon.png"></code>
+<code><img height="40" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/Databricks Icon.png"></code>
 
 ## Contacts
 • <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/linkedin.png" /> [__Linkedin__](https://www.linkedin.com/in/jonathan-santoso-100/) <br/>
-• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/github.png" /> [__Github__](https://github.com/jsantoso2)
+• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/github.png" /> [__Github__](https://github.com/jsantoso2) <br/>
+• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/certificate.png" /> [__Certification__](https://www.credential.net/profile/jonathansantoso406206/wallet)

@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 ## Contacts
 • <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/linkedin.png" /> [__Linkedin__](https://www.linkedin.com/in/jonathan-santoso-100/) <br/>
 • <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/github.png" /> [__Github__](https://github.com/jsantoso2) <br/>
-• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/Certificate.png" /> [__Certification__](https://www.credential.net/profile/jonathansantoso406206/wallet)
+• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/Certificate.png" /> [__GCP Certifications__](https://www.credly.com/users/jonathan-santoso.3d040ec6) <br/>
+• <img height="20" align="center" src="https://github.com/jsantoso2/jsantoso2/blob/master/icons/Certificate.png" /> [__Databricks Certifications__](https://www.credential.net/profile/jonathansantoso406206/wallet)
